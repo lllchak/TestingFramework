@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00ea5999-330e-4b96-9591-1bae1b817e1a": {
+      "ProjectGuid": "00ea5999-330e-4b96-9591-1bae1b817e1a",
+      "DisplayName": "TestingFramework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
